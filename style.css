@@ -28,12 +28,13 @@ div.style-guide-side-menu ul {
 }
 
 div.style-guide-side-menu ul li {
-    padding: 15px 15px 15px 0px;
+    padding: .2em .2em .2em 0;
 }
 
 div.style-guide-side-menu ul li a {
     color: #ffffff;
     text-decoration: none;
+}
 
 div.body-content {
     display: inline-block;
