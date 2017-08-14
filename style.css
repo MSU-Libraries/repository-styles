@@ -9,6 +9,32 @@ h1 {
     font-family: Georgia, serif;
 }
 
+h2 {
+    font-size: 1.7em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.style-guide-side-menu {
+    display: inline-block;
+    float: left;
+    clear: both;
+    margin: 2em;
+}
+
+div.style-guide-side-menu ul {
+    background-color: #18453b;
+    list-style: none;
+    border-radius: 5px;
+}
+
+div.style-guide-side-menu ul li {
+    padding: 15px 15px 15px 0px;
+}
+
+div.style-guide-side-menu ul li a {
+    color: #ffffff;
+    text-decoration: none;
+
 a.islandora-button {
     color: #ffffff;
     background-color: #c24e24;
