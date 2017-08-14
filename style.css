@@ -35,6 +35,11 @@ div.style-guide-side-menu ul li a {
     color: #ffffff;
     text-decoration: none;
 
+div.body-content {
+    display: inline-block;
+    width: 70%;
+}
+
 a.islandora-button {
     color: #ffffff;
     background-color: #c24e24;
