@@ -1,0 +1,18 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.15;
+}
+
+h1 {
+    font-size: 2em;
+    margin: .5em;
+    font-family: Georgia, serif;
+}
+
+a {
+    color: #ffffff;
+    background-color: #c24e24;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+}
