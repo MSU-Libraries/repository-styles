@@ -50,3 +50,8 @@ a.islandora-button {
     text-decoration: none;
 }
 
+div.codesnippet {
+    border: 1px #e2e2e2 solid;
+    padding: 2em;
+    border-radius: 5px;
+}
